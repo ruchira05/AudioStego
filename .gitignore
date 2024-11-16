@@ -132,11 +132,6 @@ venv.bak/
 .spyderproject
 .spyproject
 
-# Custom Folders
-Data/
-OutputData/
-stegoenv/
-
 # Rope project settings
 .ropeproject
 
@@ -164,3 +159,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+*.wav
+Data/features_30_sec.csv
+Data/features_3_sec.csv
+/Data/images_original
+/stegoenv
